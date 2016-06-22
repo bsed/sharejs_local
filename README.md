@@ -94,5 +94,6 @@ OK，快去试试效果吧~
 
 原文：[https://www.hrwhisper.me/baidu-share-not-support-https-solution/](https://www.hrwhisper.me/baidu-share-not-support-https-solution/)
 
+**注意** ：下载源为 local镜像
 
   [1]: https://kelvin.mbioq.com/usr/uploads/2016/06/3505987201.png
